@@ -13,7 +13,7 @@ namespace IntroUI
                 LastName = "Singh"
             };
 
-            System.Console.WriteLine($"My name is {p.PersonName} {p.LastName}");
+            System.Console.WriteLine($"My name {p.PersonName} {p.LastName}");
             Console.WriteLine("Hello World!");
             Console.WriteLine("This is first program in VS code");
         }
