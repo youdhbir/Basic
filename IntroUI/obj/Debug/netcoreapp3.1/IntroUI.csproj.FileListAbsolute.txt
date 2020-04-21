@@ -1,0 +1,16 @@
+D:\Temp\VSCodeIntro\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.exe
+D:\Temp\VSCodeIntro\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.deps.json
+D:\Temp\VSCodeIntro\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.runtimeconfig.json
+D:\Temp\VSCodeIntro\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.runtimeconfig.dev.json
+D:\Temp\VSCodeIntro\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.dll
+D:\Temp\VSCodeIntro\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.pdb
+D:\Temp\VSCodeIntro\IntroUI\bin\Debug\netcoreapp3.1\IntroLibrary.dll
+D:\Temp\VSCodeIntro\IntroUI\bin\Debug\netcoreapp3.1\IntroLibrary.pdb
+D:\Temp\VSCodeIntro\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.csprojAssemblyReference.cache
+D:\Temp\VSCodeIntro\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.csproj.CoreCompileInputs.cache
+D:\Temp\VSCodeIntro\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.AssemblyInfoInputs.cache
+D:\Temp\VSCodeIntro\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.AssemblyInfo.cs
+D:\Temp\VSCodeIntro\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.csproj.CopyComplete
+D:\Temp\VSCodeIntro\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.dll
+D:\Temp\VSCodeIntro\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.pdb
+D:\Temp\VSCodeIntro\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.genruntimeconfig.cache
